@@ -65,3 +65,9 @@ I’m Rohan Kumar, a B.Tech student who enjoys solving problems and turning idea
 <div align="center" style="margin-bottom: 0px; border: 2px solid #444; border-radius: 12px; padding: 20px; background-color: #0d1117;">
   <img src="https://streak-stats.demolab.com/?user=rohan-kumar-006&theme=tokyonight" alt="GitHub Streak" />
 </div>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+</picture>
