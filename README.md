@@ -55,13 +55,13 @@ I’m Rohan Kumar, a B.Tech student who enjoys solving problems and turning idea
 ### 📊 GitHub Insights
 
 <div align="center" style="margin-bottom: 30px; border: 2px solid #444; border-radius: 12px; padding: 20px; background-color: #0d1117;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rohan-kumar-006&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rohan-kumar-006&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" />
 </div>
 
 <div align="center" style="margin-bottom: 30px; border: 2px solid #444; border-radius: 12px; padding: 20px; background-color: #0d1117;">
-  <img src="https://github-readme-stats.vercel.app/api?username=rohan-kumar-006&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rohan-kumar-006&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats" />
 </div>
 
 <div align="center" style="margin-bottom: 0px; border: 2px solid #444; border-radius: 12px; padding: 20px; background-color: #0d1117;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rohan-kumar-006&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=rohan-kumar-006&theme=tokyonight" alt="GitHub Streak" />
 </div>
