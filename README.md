@@ -5,6 +5,10 @@
   <img src="https://komarev.com/ghpvc/?username=rohan-kumar-006&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
+<p align="center">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMndvc29ybTBpejl3bm02d2RiYTAyaXZuOXkzajg1eDl2dDZ5MHdicSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CuuSHzuc0O166MRfjt/giphy.gif" width="30%" alt="Coding GIF" />
+</p>
+
 ---
 
 ### 👨‍💻 About Me
@@ -52,22 +56,23 @@ I’m Rohan Kumar, a B.Tech student who enjoys solving problems and turning idea
 
 ---
 
-### 📊 GitHub Insights
+### 📊 GitHub Stats
 
-<div align="center" style="margin-bottom: 30px; border: 2px solid #444; border-radius: 12px; padding: 20px; background-color: #0d1117;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rohan-kumar-006&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" />
-</div>
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rohan-kumar-006&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohan-kumar-006&layout=compact&langs_count=8&theme=tokyonight" alt="Top Languages"/>
+</p>
 
-<div align="center" style="margin-bottom: 30px; border: 2px solid #444; border-radius: 12px; padding: 20px; background-color: #0d1117;">
-  <img src="https://github-readme-stats.vercel.app/api?username=rohan-kumar-006&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats" />
-</div>
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=rohan-kumar-006" />
+</p>
 
-<div align="center" style="margin-bottom: 0px; border: 2px solid #444; border-radius: 12px; padding: 20px; background-color: #0d1117;">
-  <img src="https://streak-stats.demolab.com/?user=rohan-kumar-006&theme=tokyonight" alt="GitHub Streak" />
-</div>
+### 🎮 Contributions
 
+<p align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
 </picture>
+</p>
