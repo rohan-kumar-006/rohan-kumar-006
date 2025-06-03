@@ -1,3 +1,4 @@
+![logo](https://github.com/rohan-kumar-006/rohan-kumar-006/blob/main/Banner.png)
 <h1 align="center">Hi 👋, I'm Rohan Kumar</h1>
 <h3 align="center">A passionate B.Tech student and developer who loves building useful things with code 💻</h3>
 
